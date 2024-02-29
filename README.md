@@ -28,4 +28,4 @@
 
 ## Working Project Recording
 
-https://drive.google.com/file/d/1aaQxGMqGSI3Iv6pQvtYckVxxqFfw1Z7/view
+It can be seen on code folder itself.
